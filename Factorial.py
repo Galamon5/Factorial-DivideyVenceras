@@ -45,5 +45,6 @@ def main():
         arreglo.append(str(i+1))
     resultado = FDyV(arreglo,div)
     print (str(num) + "! = " + str(resultado))
+    input("")
 
 main()
